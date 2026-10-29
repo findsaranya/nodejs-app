@@ -1,0 +1,11 @@
+{
+  "name": "node-js-complete-guide",
+  "version": "1.0.0",
+  "description": "complete node js guide",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saranya govindaraj",
+  "license": "ISC"
+}
